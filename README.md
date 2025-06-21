@@ -12,6 +12,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+## 🔍 Incident Response Projects
+
+- **[Windows Log Analysis using DeepBlueCLI](https://github.com/adrianbooker95/DeepBlueCLI-Investigation)**  
+    Hands-on investigation using EVTX logs, DeepBlueCLI, and MITRE ATT&CK mapping.
+
 <hr/>
 
 ## 🤳 Connect With Me
