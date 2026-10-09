@@ -8,6 +8,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+## ☁️ Cloud Security & Secure Application Development
+
+- **[Security+ Exam Lab — Zero-Trust Cloud Exam Simulator](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio)**  
+  Built and deployed a private Security+ study platform protected by Cloudflare Access with JWT-verified APIs, account-scoped D1 synchronization, GitHub Actions testing, and browser-local privacy controls. [View the full case study](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio/blob/main/docs/PROJECT-CASE-STUDY.md).
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
