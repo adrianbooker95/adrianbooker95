@@ -1,36 +1,23 @@
-# <a href="https://www.linkedin.com/in/adrian-booker/">Adrian Booker</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Adrian Booker | IT & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
+Welcome to my cybersecurity portfolio. I focus on practical cloud security, identity and access management, incident response, and secure systems. I feature **completed, reviewed projects** here so employers can see what I built, how I protected it, and how I verified the results.
 
+## ☁️ Featured Completed Project
 
-## ⚠️ Vulnerability Management Projects
+### [Security+ Exam Lab — Zero-Trust Cloud Exam Simulator](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio)
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+Designed and deployed a private cybersecurity study platform protected by **Cloudflare Access**, with signed JWT verification for API requests, **Cloudflare D1** synchronization across devices, and automated **GitHub Actions** testing. Kept purchased training PDFs browser-local to protect licensed materials.
 
-## ☁️ Cloud Security & Secure Application Development
+**Skills demonstrated:** Cloud Security · Zero Trust · Identity & Access Management (IAM) · API Security · JavaScript · Cloudflare D1 · GitHub Actions · Testing & Documentation
 
-- **[Security+ Exam Lab — Zero-Trust Cloud Exam Simulator](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio)**  
-  Built and deployed a private Security+ study platform protected by Cloudflare Access with JWT-verified APIs, account-scoped D1 synchronization, GitHub Actions testing, and browser-local privacy controls. [View the full case study](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio/blob/main/docs/PROJECT-CASE-STUDY.md).
+- [View the public project showcase](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio)
+- [See the project development and screenshots](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio/blob/main/docs/SCREENSHOT-WALKTHROUGH.md)
+- [Read the security architecture](https://github.com/adrianbooker95/security-plus-exam-lab-portfolio/blob/main/docs/SECURITY-ARCHITECTURE.md)
 
-## 🚨 Threat Hunting and Security Operations
+*Additional projects will be featured as they are completed and ready for professional review.*
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+---
 
-## 🔍 Incident Response Projects
+## 🤝 Connect
 
-- **[Windows Log Analysis using DeepBlueCLI](https://github.com/adrianbooker95/DeepBlueCLI-Investigation)**  
-    Hands-on investigation using EVTX logs, DeepBlueCLI, and MITRE ATT&CK mapping.
-
-<hr/>
-
-## 🤳 Connect With Me
-
-[<img align="left" alt="Adrian Booker| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/adrian-booker
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+[LinkedIn — Adrian Booker](https://www.linkedin.com/in/adrian-booker/)
